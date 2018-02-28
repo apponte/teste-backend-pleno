@@ -19,7 +19,7 @@ Deverá ser criada uma rota para autenticação de usuários com email e senha.
 Ao realizar a autenticação a aplicação deve retornar um token.
 
 ### Rota protegida
-Também deverá ter uma rota que só deverá ter os dados retornados para usuários autenticados.
+Também deverá ter uma rota que só irá retornar os dados para usuários autenticados.
 Os dados a serem retornados devem ser o perfil completo do usuário logado.
 
 ## O que será avaliado?
