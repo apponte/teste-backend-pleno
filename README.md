@@ -1,5 +1,5 @@
 # Teste Apponte - Backend Pleno
-Desenvolver uma API utilizando Node.js
+Desenvolver uma pequena API utilizando Node.js
 
 ## Instruções
 - Siga as especificações abaixo.
